@@ -2,5 +2,21 @@ body {
   position: relative;
 }
 
+.main-header {
+	color: purple;
+	text-transform: uppercase;
+}
+
+#header-level-3 {
+	color: yellow;
+}
+
+#header-level-3 {
+	font-weight: 400;
+}
+
 #fixed-block {
 }
+
+#ma-boite {
+	
